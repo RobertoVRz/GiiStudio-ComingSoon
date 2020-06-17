@@ -3,6 +3,7 @@
     overlay="rgba(0, 0, 0, 0.5)"
     :src="video"
     style="width: 100vw; height: 100vh;"
+    :autoplay="true"
   >
     <div class="contenedor">
       <h1 class="font">Gii Studio</h1>
